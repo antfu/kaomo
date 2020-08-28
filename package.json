@@ -1,6 +1,6 @@
 {
   "name": "kaomo",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "main": "dist/cli.js",
   "license": "MIT",
   "author": "antfu <anthonyfu117@hotmail.com>",
