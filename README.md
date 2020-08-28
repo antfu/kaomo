@@ -1,9 +1,11 @@
-<samp><b>kaomo</b> (//ω//)</samp>
+<samp><b>kaomo</b> ( ´ ▽ ` )/</samp>
 
-<samp>Generates random kaomoji<sup> 顔文字</sup> in CLI</samp>
+<samp>Generates a random 顔文字<sup>kaomoji</sup> in CLI</samp>
 
 <br>
 
 <pre align='center'>
-npm i -g kaomo
+npx -q <b>kaomo</b>
 </pre>
+
+<sub><code>-q</code> for quiet</sub>
