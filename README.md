@@ -5,7 +5,5 @@
 <br>
 
 <pre align='center'>
-npx -q <b>kaomo</b>
+npx <b>kaomo</b>
 </pre>
-
-<sub><code>-q</code> for quiet</sub>
